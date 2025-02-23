@@ -1,0 +1,12 @@
+D:\VB.Net\myProject1\bin\Debug\myProject1.exe.config
+D:\VB.Net\myProject1\bin\Debug\myProject1.exe
+D:\VB.Net\myProject1\bin\Debug\myProject1.pdb
+D:\VB.Net\myProject1\bin\Debug\myProject1.xml
+D:\VB.Net\myProject1\obj\Debug\myProject1.vbproj.AssemblyReference.cache
+D:\VB.Net\myProject1\obj\Debug\myProject1.Form1.resources
+D:\VB.Net\myProject1\obj\Debug\myProject1.Resources.resources
+D:\VB.Net\myProject1\obj\Debug\myProject1.vbproj.GenerateResource.cache
+D:\VB.Net\myProject1\obj\Debug\myProject1.vbproj.CoreCompileInputs.cache
+D:\VB.Net\myProject1\obj\Debug\myProject1.exe
+D:\VB.Net\myProject1\obj\Debug\myProject1.xml
+D:\VB.Net\myProject1\obj\Debug\myProject1.pdb
